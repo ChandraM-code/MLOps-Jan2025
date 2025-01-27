@@ -4,4 +4,6 @@ example.txt
 Placeholder file for Github exercise
 + Resolved conflicts to allow clean merge
 #############
-
+<Code developed in TestDelBranch to support, say, a new feature>
+<Branch to be deleted after the code is stabilized and merged to main>
+#############
